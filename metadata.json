@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast AI",
+  "description": "A beautiful, AI-powered weather dashboard using Gemini Search Grounding to provide real-time weather updates and forecasts for any location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
